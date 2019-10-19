@@ -1,6 +1,7 @@
 # Lebedev Markov
 
-Markov chain implementation to generate text from Artemy Levedev livejournal posts.
+Markov chain implementation to generate text from Artemy Levedev livejournal posts.   
+Some results: https://t.me/markov_lebedev
 
 # How to run
 
